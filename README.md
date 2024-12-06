@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Connect me - [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajneeshrai/)
+
+![rajneeshrai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajneeshrai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
